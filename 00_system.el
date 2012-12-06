@@ -1,5 +1,5 @@
 ;;; Emacs System
-;; last update : 2012/12/01
+;; last update : 2012/12/06
 ;
 
 ;;; ‰ŠúƒtƒŒ[ƒ€‚Ìİ’è
