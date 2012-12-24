@@ -1,5 +1,5 @@
 ;;; Emacs System
-;; last update : 2012/12/06
+;; last update : 2012/12/12
 ;
 
 ;;; 初期フレームの設定
@@ -189,3 +189,8 @@
 
 ;;; 指定行へ移動する
 (global-set-key (kbd "C-c l") 'goto-line)
+
+;;; cua-mode
+;;; 矩形選択の設定
+(cua-mode t)
+(setq cua-enable-cua-keys nil)
